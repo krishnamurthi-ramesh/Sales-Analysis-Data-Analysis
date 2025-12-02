@@ -1,0 +1,43 @@
+# Python envs
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output files and artifacts
+*.html
+*.pdf
+
+# Office / Power BI files (large binary files)
+*.pbix
+*.xlsx
+
+# Data exports (if you prefer not to store raw data)
+# Uncomment to ignore CSVs if desired
+#*.csv
+
+# Local environment
+.env
+
+# Mac/Windows files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Ignore credentials
+*.pem
+*.key
+
+# Node / front-end
+node_modules/
+
+# Notebook metadata cache
+.ipynb_checkpoints/

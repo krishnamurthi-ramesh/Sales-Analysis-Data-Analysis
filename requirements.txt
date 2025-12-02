@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+jupyter
+nbconvert
+openpyxl  # optional, if Excel reading required
