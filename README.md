@@ -15,12 +15,12 @@ This repository contains an Exploratory Data Analysis (EDA) project on regional 
 - `Background/` — Supporting documentation and any additional data or analysis notes
 - `README.md` — This file
 
-## Project Status ✅
+## Project Status 
 
 - Status: Active — exploratory analyses are complete and additional visualizations and features may be added.
 - Notebook last reviewed: 2025-12-02
 
-## Reproducibility & Exports 📦
+## Reproducibility & Exports 
 
 This repository contains a Jupyter Notebook. To reproduce the analyses and export the final report/visualizations programmatically, follow the steps below.
 
@@ -119,7 +119,7 @@ If you have any questions or suggestions, open an issue or reach out to the proj
 
 ---
 
-Thank you for checking out this project — feel free to explore and contribute! ⚡️
+Thank you for checking out this project — feel free to explore and contribute!
 
 
 
