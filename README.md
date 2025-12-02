@@ -1,5 +1,7 @@
 # Regional Sales Analysis (Exploratory Data Analysis)
 
+[Repository](https://github.com/krishnamurthi-ramesh/Sales-Analysis-Data-Analysis) • Author: **Krishnamurthi**
+
 ## Overview
 This repository contains an Exploratory Data Analysis (EDA) project on regional sales data. The goal is to analyze sales trends, identify high-performing regions and products, and surface actionable insights through visualizations and summary statistics.
 
@@ -136,6 +138,8 @@ This repository is provided under the MIT License. See `LICENSE` for full detail
 
 ## Contact
 If you have any questions or suggestions, open an issue or reach out to the project owner.
+
+Author: **Krishnamurthi** — GitHub: [krishnamurthi-ramesh](https://github.com/krishnamurthi-ramesh)
 
 ---
 
