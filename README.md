@@ -59,21 +59,10 @@ jupyter
 ## Live Dashboard 🚀
 
 The interactive dashboard for the sales analysis is hosted and available here:
+ 
+[Live Dashboard (SharePoint)](https://iimv1-my.sharepoint.com/:u:/g/personal/krishnamurthi_ramesh25-07_iimv_ac_in/IQA8DeIgmvIpQ44KwTziNdHgAaeP7f_X5k5cf-4N8TDw-KM?e=HdnOZ9)
 
-[Live Dashboard (SharePoint)](https://iimv1-my.sharepoint.com/:u:/g/personal/krishnamurthi_ramesh25-07_iimv_ac_in/IQA8DeIgmvIpQ44KwTziNdHgAQu-Y_0oNwqCtA7gtEj6RgQ?e=GzJBHy)
-
-This link points to the live SharePoint-hosted dashboard. If you'd like the dashboard embedded or hosted elsewhere (e.g., GitHub Pages, Streamlit/Heroku container), I can help set that up.
-
-## CI / Deployment
-
-This repository now includes a GitHub Actions workflow that converts the main notebook to HTML and publishes it to GitHub Pages on each push to `main`.
-
-- Workflow file: `.github/workflows/export-and-deploy-notebook.yml`
-- Output (GitHub Pages): https://krishnamurthi-ramesh.github.io/Sales-Analysis-Data-Analysis/ (may need enabling for the repository)
-
-After the action runs, a static HTML copy of the notebook will be available at the Pages URL above (or under the owner repo Pages URL).
-
-If you'd like the site to be enabled earlier, open the repo Settings -> Pages and ensure the Pages is configured to use the "GitHub Pages" action or the repository files as the source.
+This link points to the live SharePoint-hosted dashboard. Note: You can preview the dashboard using any Microsoft account (sign-in required).
 
 
 ## Dataset
