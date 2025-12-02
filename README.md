@@ -3,6 +3,8 @@
 ## Overview
 This repository contains an Exploratory Data Analysis (EDA) project on regional sales data. The goal is to analyze sales trends, identify high-performing regions and products, and surface actionable insights through visualizations and summary statistics.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ## Project Highlights
 - Interactive Jupyter Notebook that walks through the complete EDA process
 - Data cleaning and validation steps
@@ -119,20 +121,18 @@ jupyter lab
 - Key takeaways and suggested next steps
 
 ## Contributing
-Contributions are welcome! Simple ways to help:
-1. Add a new visualization or analysis in the notebook
-2. Propose data cleaning or pipeline improvements
-3. Create an issue or pull request with suggested changes or bug fixes
-4. Add `requirements.txt` or a `environment.yml` for reproducibility
+Contributions are welcome! For details on how to contribute, please read `CONTRIBUTING.md`.
 
-Please follow these steps to contribute:
-1. Fork the repo
-2. Create a new branch: `git checkout -b feature/your-feature`
-3. Make your changes and run the notebook to ensure outputs run correctly
-4. Commit your changes and open a Pull Request
+Some ways you can help:
+- Add a new visualization or analysis in the notebook
+- Propose data cleaning or pipeline improvements
+- Create an issue or pull request with suggested changes or bug fixes
+- Add or update `requirements.txt` for reproducibility
+
+Please follow the contribution guidelines in `CONTRIBUTING.md` when making changes.
 
 ## License
-This repository is provided under the MIT License. See `LICENSE` for more details (if none, you can add one).
+This repository is provided under the MIT License. See `LICENSE` for full details. By contributing, you agree to license your contributions under MIT as described in `CONTRIBUTING.md`.
 
 ## Contact
 If you have any questions or suggestions, open an issue or reach out to the project owner.
