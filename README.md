@@ -64,6 +64,17 @@ The interactive dashboard for the sales analysis is hosted and available here:
 
 This link points to the live SharePoint-hosted dashboard. Note: You can preview the dashboard using any Microsoft account (sign-in required).
 
+## Dashboard Preview (Screenshots) 📸
+
+Here are preview screenshots of the dashboard to provide a quick visual overview. Click the "Live Dashboard" link above to open the interactive version (Microsoft account sign-in required).
+
+<table>
+	<tr>
+		<td align="center"><img src="assets/images/dashboard-1-full.png" alt="Executive Overview & Trends" width="420" /><br/><strong>Executive Overview & Trends</strong></td>
+		<td align="center"><img src="assets/images/dashboard-2-full.png" alt="Product & Channel Performance" width="420" /><br/><strong>Product & Channel Performance</strong></td>
+		<td align="center"><img src="assets/images/dashboard-3-full.png" alt="Geographic & Customer Insights" width="420" /><br/><strong>Geographic & Customer Insights</strong></td>
+	</tr>
+</table>
 
 ## Dataset
 The dataset used for analysis is `Sales_data(EDA Exported).csv`. It contains historical sales records, including columns for region, product, sales volume, unit price, date, and any other features discovered during initial cleaning.
