@@ -56,6 +56,15 @@ plotly
 jupyter
 ```
 
+## Live Dashboard 🚀
+
+The interactive dashboard for the sales analysis is hosted and available here:
+
+[Live Dashboard (SharePoint)](https://iimv1-my.sharepoint.com/:u:/g/personal/krishnamurthi_ramesh25-07_iimv_ac_in/IQA8DeIgmvIpQ44KwTziNdHgAQu-Y_0oNwqCtA7gtEj6RgQ?e=GzJBHy)
+
+This link points to the live SharePoint-hosted dashboard. If you'd like the dashboard embedded or hosted elsewhere (e.g., GitHub Pages, Streamlit/Heroku container), I can help set that up.
+
+
 ## Dataset
 The dataset used for analysis is `Sales_data(EDA Exported).csv`. It contains historical sales records, including columns for region, product, sales volume, unit price, date, and any other features discovered during initial cleaning.
 
